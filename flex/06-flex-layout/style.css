@@ -54,7 +54,6 @@ li {
 .footer {
   position: fixed;
   left: 0;
-  bottom: 0;
   width: 100%;
   background-color: rgba(147, 147, 147, 0.272);
 }
